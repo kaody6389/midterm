@@ -1,3 +1,4 @@
+202201634 주준영\
 Fast Fourier Transform (고속 푸리에 변환)
 ============
 ## Fourier Transform (푸리에 변환)
